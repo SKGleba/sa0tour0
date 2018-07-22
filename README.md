@@ -6,18 +6,18 @@ Redirect Playstation Vita/TV's systemdata to ur0 or ux0.
 # Introduction:
 This tool allows you to redirect systemdata (fonts, dictionary, handwriting) to ur0 or ux0.
 
-It is useful for people who wants to use custom fonts and stay safe (modding sa0 may lead to a brick).
+It is useful for people who wants to customize fonts (modding sa0 may lead to a brick).
 
 # Installation:
 1) Download and install the provided VPK file.
 
-2) Copy the /data/ folder from sa0 to ur0 or ux0 (you may delete the unwanted/not needed files after installation) and reboot the console.
+2) Copy the /data/ folder from sa0 to ur0 or ux0 and reboot the console.
 
-3) Open the app and choose what part of systemdata (i.e pvf fonts) you want to redirect (press [SELECT] to redirect everything).
+3) Open the app and choose what part of systemdata (i.e *.pvf* fonts) you want to redirect or press [SELECT] to redirect everything.
 
-4) Choose the target location (i.e ur0:data/font/pvf/ for *.pvf* fonts)
+4) Choose the new location (i.e ur0:data/font/pvf/ for *.pvf* fonts)
 
-5) It should take few seconds to complete, after it finishes reboot the console.
+5) It should take few seconds to complete, and after it finishes reboot the console.
 
 # FAQ:
  - Q: Can i delete other (not used) folders from the /data/ folder?
