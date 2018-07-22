@@ -1,5 +1,7 @@
 # sa0tour0
 Redirect Playstation Vita/TV's systemdata to ur0 or ux0.
+
+![ref0](https://cdn.discordapp.com/attachments/443121984306544641/470656733640130570/2015-01-01-025100.jpg)
 # This guide applies ONLY to Playstation Vita/TV models with ENSO NSKBL hack installed and running.
 # Introduction:
 This tool allows you to redirect systemdata (fonts, dictionary, handwriting) to ur0 or ux0.
