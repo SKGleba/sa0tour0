@@ -17,7 +17,7 @@ It is useful for people who wants to use custom fonts and stay safe (modding sa0
 
 4) Choose the target location (i.e ur0:data/font/pvf/ for *.pvf* fonts)
 
-5) It should take few seconds to complete, after it finishes you may exit the app and reboot the console.
+5) It should take few seconds to complete, after it finishes reboot the console.
 
 # FAQ:
  - Q: Can i delete other (not used) folders from the /data/ folder?
