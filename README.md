@@ -30,8 +30,6 @@ It is useful for people who wants to customize fonts (modding sa0 may lead to a 
    - A: I created this tool to safely experiment with fonts, hwr, and dics. If you want to redirect one file you may use fontRedirect by cxziaho (not compatible with most of games/apps and fws).
  - Q: I did a bad redirect/i installed a bad font/i dont have text/everything errors out.
    - A: If you cant access the app - reinstall firmware via safemode.
- - Q: You did a great job! How can i help/donate you?
-   - A: paypal.me/skgleba (thx! ^_^)
 # Useful notes:
 - Do NOT uninstall enso while systemdata is redirected, if you did it and cant access the app - reinstall firmware via safemode.
 - For any serious issue/help DM me on twitter (twitter.com/skgleba)
